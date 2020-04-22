@@ -1,3 +1,4 @@
-apple 
+﻿apple 
 这是被修改后的文件
+apple is red
 hahaha
